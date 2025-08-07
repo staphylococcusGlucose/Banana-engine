@@ -7,7 +7,7 @@ It's actually nothing. It would be a great engine to support cross-platforms, an
 
 ## What are you going to make of it?
 
-I don't know how to use Vulkan, so I'm going to develop all the platforms in Opengl (ios is going to have to use metal, but that's going to be a story in the distant future). I'm going to develop it in C/C++, and I think I'm going to use Lua, too
+I don't know how to use Vulkan, so I'm going to develop all the platforms in Opengl (ios is going to have to use metal, but that's going to be a story in the distant future). I'm going to develop it in D, and I think I'm going to use Lua, too
 
 ## Special note
 
